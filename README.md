@@ -83,6 +83,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![System Design](https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge&logo=blueprint&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -114,7 +115,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jitu0809&icon=0&color=0" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=Jitu0809&style=flat-square&color=blueviolet" alt="visitor count"/>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Jitu0809">Jitu0809</a> — thanks for stopping by!</i></p>
